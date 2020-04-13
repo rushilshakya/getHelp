@@ -8,7 +8,7 @@ Here are online self-assessment tools in various languages:
 
 [English](https://www.thegana.services/self-assessment/index_en.html#q0)
 
-[Newari](https://www.thegana.services/self-assessment/index_nw.html#q0)
+[Newa / Nepal Bhasa](https://www.thegana.services/self-assessment/index_nw.html#q0)
 
 [Maithali](https://www.thegana.services/self-assessment/index_mt.html#q0)
 
