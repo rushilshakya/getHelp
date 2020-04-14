@@ -16,4 +16,5 @@
 * [Nepali Non-Government Portals](other-information-sources/nepali-non-government-portals.md)
 * [Nepali Social Media](other-information-sources/nepali-social-media.md)
 * [International Resources](other-information-sources/international-resources.md)
+* [For Developers](other-information-sources/for-developers.md)
 
