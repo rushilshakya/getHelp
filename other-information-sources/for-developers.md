@@ -4,5 +4,5 @@
 
 ## [NDRRMA API](https://bipad.gov.np/api/v1/)
 
-
+## [Useful projects and resources for COVID-19](https://github.com/soroushchehresa/awesome-coronavirus)
 
