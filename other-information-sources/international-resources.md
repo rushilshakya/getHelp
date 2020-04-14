@@ -2,7 +2,7 @@
 
 ## [The Johns Hopkins University Coronavirus Resource Center](https://coronavirus.jhu.edu/map.html) 
 
-is a very comprehensive dashboard with world data snapshots, map, news & information, data center, basics, and live events.Can I become who I want to be?
+is a very comprehensive dashboard with world data snapshots, map, news & information, data center, basics, and live events.
 
 ## **Unicef**
 
