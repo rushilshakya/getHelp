@@ -22,3 +22,7 @@ A helpful website by Avi Schiffmann, a high schooler in Washington State, USA.  
 
 `It features simple graphics and easy-to-read tables divided by nation, continent, and state. Data automatically updates every minute. In a politicized pandemic, where rumor and panic run amok, the site has become a reputable, if unlikely, watchdog.`
 
+## [Genomic epidemiology of SARS-CoV-2](https://nextstrain.org/ncov/global)
+
+Maintained by [the Nextstrain team](https://nextstrain.org/). Enabled by data from GISAID, This website provides an updated global subsampling of SARS-CoV-2.
+
