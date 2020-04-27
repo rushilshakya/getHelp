@@ -17,7 +17,10 @@ Various informal groups have set up impromptu networks to distribute free cooked
     <tr>
       <td style="text-align:left"><a href="https://www.gofundme.com/f/provide-300-families-with-food-for-1-week">Yellow House Volunteers</a>
       </td>
-      <td style="text-align:left">Ben Ayers, Nayantara</td>
+      <td style="text-align:left">
+        <p>Ben Ayers, Nayantara,</p>
+        <p>9851115866</p>
+      </td>
       <td style="text-align:left">Ration for a week</td>
       <td style="text-align:left">Kathmandu Valley</td>
     </tr>
