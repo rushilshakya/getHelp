@@ -107,7 +107,7 @@ Various informal groups have set up impromptu networks to distribute free cooked
     <tr>
       <td style="text-align:left"><a href="https://www.facebook.com/bikalpa.nepal.7">Bikalpa</a>
       </td>
-      <td style="text-align:left">97714821635</td>
+      <td style="text-align:left">+97714821635</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Kathmandu Valley</td>
     </tr>
